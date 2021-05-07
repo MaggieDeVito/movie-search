@@ -22,3 +22,22 @@
   border: none;
   border-bottom: 1px solid #e8e8e8;
 }
+
+.boxes {
+  height: 450px;
+  display: flex;
+}
+
+.results {
+  border: 2px solid blue;
+  height: 200px;
+  width: 350px;
+  overflow-y: auto;
+}
+
+.nominations {
+  border: 2px solid black;
+  height: 200px;
+  width: 350px;
+  overflow-y: auto;
+}

@@ -1,5 +1,6 @@
 import { useState } from "react";
 import Results from "./Results";
+import Nominations from "./Nominations";
 function SearchBar() {
   const [search, setSearch] = useState("");
   return (
